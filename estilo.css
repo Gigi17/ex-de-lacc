@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+
+.tituloForm{
+    color: red;
+    text-align: center; 
+    font-size: 28px;
+}
+
+.img{
+    margin-right: 350px;
+    margin-left: 620px;
+}
+
+.text{
+    font-size: 18px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.field{
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+a{
+    margin-left: 50px;
+} 
+
+footer {             
+    width: 100%;
+    background-color: rgb(253, 6, 6);
+    color: rgb(247, 244, 244);
+    text-align: center; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
